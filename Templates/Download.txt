@@ -1,0 +1,14 @@
+    <!-- Start of Download -->
+    <img src="Downloads/IMAGE0.png" alt="IMAGE">
+    <br />
+    <br>
+    <a>Download name</a>
+    <br />
+    <a href="Downloads/[FILENAME]" download>
+
+    <img src="Downloads/Download_Button.png" alt="DOWNLOAD">
+    </a>
+    <br>
+    <br />
+    <br>
+    <br /> <!-- End of Download -->
