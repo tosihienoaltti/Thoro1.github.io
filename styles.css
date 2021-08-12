@@ -1,5 +1,5 @@
 body{
-    background: #656565;
+    background: #17202A;
     font-family: 'open_sansregular';
     color: white;
     margin-left: 0px;
@@ -7,7 +7,7 @@ body{
 .site-logo{
 	display: flex;
 	align-items: center;
-	background-color: #333333; 
+	background-color: #273746; 
 }
 li{
     display: inline-block;
@@ -15,10 +15,10 @@ li{
 }
 a{
 margin-left: 25px;
-font-size: 250%;
-color: #F0F0F0;
+font-size: 285%;
+color: #839192;
 }
 b{
 margin-left: 25px;
-color: #F0F0F0;
+color: #839192;
 }
