@@ -3,6 +3,7 @@ start https://www.youtube.com/watch?v=dQw4w9WgXcQ
 0
 1
 1
+5
 
 LINES
 1=CMD "FALSE" to disable
@@ -10,3 +11,4 @@ LINES
 3=SWAPWALLPAPER
 4=FULLVOLUME
 5=STOP THE APP
+6=HOW MANY MINUTES AFK BEFORE STARTING APP
