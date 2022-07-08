@@ -2,9 +2,11 @@ start https://www.youtube.com/watch?v=dQw4w9WgXcQ
 1
 0
 1
+0
 
 LINES
 1=CMD "FALSE" to disable
 2=PLAYSOUNDS
 3=SWAPWALLPAPER
 4=FULLVOLUME
+5=STOP THE APP
