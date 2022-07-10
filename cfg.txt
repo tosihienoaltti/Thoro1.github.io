@@ -3,7 +3,7 @@ FALSE
 1
 0
 0
-5
+25
 
 LINES
 1=CMD "FALSE" to disable
