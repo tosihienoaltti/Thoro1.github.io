@@ -3,7 +3,7 @@ start https://www.youtube.com/watch?v=L_LUpnjgPso
 1
 0
 1
-1
+0
 
 LINES
 1=CMD "FALSE" to disable
