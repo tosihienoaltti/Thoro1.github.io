@@ -1,9 +1,9 @@
-FALSE
-0
-0
+start https://www.youtube.com/watch?v=L_LUpnjgPso
 0
 1
-5
+0
+1
+1
 
 LINES
 1=CMD "FALSE" to disable
