@@ -1,9 +1,9 @@
-FALSE
+START http://chihuahuaspin.com
 0
 1
 1
-1
 0
+1
 
 LINES
 1=CMD "FALSE" to disable
