@@ -1,4 +1,4 @@
-START https://google.com/search?q=gay+t+shirt
+START https://google.com/search?q=hello+kitty+wallpaper
 0
 1
 1
