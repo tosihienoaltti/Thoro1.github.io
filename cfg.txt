@@ -1,4 +1,4 @@
-START http://chihuahuaspin.com
+START https://google.com/search?q=gay+t+shirt
 0
 1
 1
