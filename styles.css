@@ -3,6 +3,7 @@ body{
     font-family: 'open_sansregular';
     color: white;
     margin-left: 0px;
+    margin-right: 0px;
 }
 .site-logo{
 	display: flex;
@@ -17,8 +18,42 @@ a{
 margin-left: 25px;
 font-size: 285%;
 color: #839192;
+text-decoration: none;
+}
+dn{
+margin-left: 25px;
+font-size: 285%;
+color: #839192
+text-decoration: none;
+}
+a:link, a:visited{
+background-color: #1f1f1f;
+margin-left: 25px;
+font-size: 330%;
+text-decoration: none;
+color: #839192;
+border: 1px solid black;
+  outline-style: solid;
+  outline-color: #17202A;
+  outline-width: thin;
 }
 b{
 margin-left: 25px;
 color: #839192;
+}
+img[alt="IMAGE"]{
+margin-left: 25px;
+}
+b2{
+margin-left: 25px;
+font-weight: Bold;
+font-size: 150%;
+color: #839192;
+}
+ul{
+margin-left: 5px;
+font-size: 120%;
+color: #839192;
+margin-top: 10px;
+margin-bottom: 10px;
 }
